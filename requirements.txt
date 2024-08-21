@@ -22,3 +22,4 @@ typing_extensions==4.12.2
 webargs==8.4.0
 Werkzeug==3.0.3
 gunicorn
+psycopg2-binary
